@@ -121,7 +121,7 @@ jstorms |> leaflet() |> addProviderTiles("CartoDB.Positron") |> addCircleMarkers
 -----
 
 
-# Coropleth Map: US Election Data
+# Choropleth Map: US Election Data
 
 The goal of this section of the assignment is to generate a choropleth map to recreate the election results map found here: <https://www.nytimes.com/interactive/2020/11/03/us/elections/results-president.html>. You will need the `countypres_2000-2020.csv` file from bcourses if you haven't downloaded it already. This is where
 

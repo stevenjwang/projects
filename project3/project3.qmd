@@ -2,8 +2,9 @@
 title:  "2024-25 NBA Salary Data"
 format:
   closeread-html:
+    remove-header-space: true
     cr-style:
-      section-background-color: "white"
+      section-background-color: "#555555"
       narrative-background-color-sidebar: "#1D428A"
       narrative-text-color-sidebar: white
       embed-resources: true

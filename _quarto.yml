@@ -10,11 +10,11 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: /projects/dashboard/demo-pub7.html
+      - href: projects/dashboard/demo-pub7.qmd
         text: Demo 7
-      - href: /project3/project3.html
+      - href: project3/project3.qmd
         text: Project 3
-      - href: /_site/ps10/ps10-steven-wang.html
+      - href: ps10/ps10-steven-wang.qmd
         text: PS10
 
 format:
