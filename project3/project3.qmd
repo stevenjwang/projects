@@ -4,7 +4,7 @@ format:
   closeread-html:
     remove-header-space: true
     cr-style:
-      section-background-color: "#555555"
+      section-background-color: "#444444"
       narrative-background-color-sidebar: "#1D428A"
       narrative-text-color-sidebar: white
       embed-resources: true
