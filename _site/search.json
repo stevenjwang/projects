@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "Hi! I’m Steven Wang. I’m a UC Berkeley undergrad studying Applied Mathematics and Data Science. WIP–poke around!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "A Little About Me",
-    "section": "",
-    "text": "Thanks for coming by! I’m a Bay Area native currently studying Applied Mathematics and Data Science at UC Berkeley.\nI enjoy working out (on a push/pull/legs split), hooping, computers (hardware/architecture), cars/motorsport (I’m a Vehicle Dynamics engineer for Berkeley Formula Racing), and EDM (I was a top 350 Spotify listener of William Black worldwide in 2025). I’m also pretty proud of my general knowledge base, which I’m constantly adding to."
-  },
-  {
-    "objectID": "project3/project3.html",
-    "href": "project3/project3.html",
-    "title": "2024-25 NBA Salary Data",
-    "section": "",
-    "text": "Salary Distribution and Statistics\n\n\n\n\n10 Highest Salaries\n\n\n\n\nAmong star players, we see multiple contracts paying $49.2M in 2024-25 as a result of the salary cap and the max contract value being limited to 35% of the cap for players with 10+ years of experience.\n\n\n\n\nlook at curry man so inspirational\n\n\n\n\n10 Highest Team Payrolls\n\n\n\n\nBradley Beal is singlehandedly responsible for the Suns payroll. Book and KD have always earned their share; Beal pulled off one of the greatest contract heists of the decade.\n\n\n\n\nSalary vs Experience\n\n\n\n\nWe see a clear salary limit in the first four years of careers. First-round picks are limited to fixed-scale 4-year rookie contracts, while later picks are typically only offered contracts at or near the minimum.\n\n\n\n\nThese restrictions are substantially lifted after the rookie contract expires, or from the 4th year onward, in the case of rookie-scale extensions.\n\n\n\n\nSalary Market by Position\n\n\n\n\nTeams tend to value great point guards more than great players in other positions, like steph.\n\n\n\n\nLook at bron at the top of the sf market.\n\n\n\n\ngo dubs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMin\nQ1\nMedian\nMean\nQ3\nMax\n\n\n\n\n11997\n2087519\n5000000\n10560539\n13209705\n55761216\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nplayer\nteam\nposition\nsalary\n\n\n\n\nStephen Curry\nGSW\nPG\n55761216\n\n\nJoel Embiid\nPHI\nC\n51415938\n\n\nNikola JokiÄ\nDEN\nC\n51415938\n\n\nKevin Durant\nPHO\nPF\n51179021\n\n\nBradley Beal\nPHO\nSG\n50203930\n\n\nJaylen Brown\nBOS\nSF\n49205800\n\n\nKarl-Anthony Towns\nNYK\nC\n49205800\n\n\nPaul George\nPHI\nPF\n49205800\n\n\nKawhi Leonard\nLAC\nSF\n49205800\n\n\nDevin Booker\nPHO\nSG\n49205800\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nplayer\nteam\nposition\nsalary\n\n\n\n\nStephen Curry\nGSW\nPG\n55761216\n\n\nJoel Embiid\nPHI\nC\n51415938\n\n\nNikola JokiÄ\nDEN\nC\n51415938\n\n\nKevin Durant\nPHO\nPF\n51179021\n\n\nBradley Beal\nPHO\nSG\n50203930\n\n\nJaylen Brown\nBOS\nSF\n49205800\n\n\nKarl-Anthony Towns\nNYK\nC\n49205800\n\n\nPaul George\nPHI\nPF\n49205800\n\n\nKawhi Leonard\nLAC\nSF\n49205800\n\n\nDevin Booker\nPHO\nSG\n49205800\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nplayer\nteam\nposition\nsalary\n\n\n\n\nStephen Curry\nGSW\nPG\n55761216\n\n\nJoel Embiid\nPHI\nC\n51415938\n\n\nNikola JokiÄ\nDEN\nC\n51415938\n\n\nKevin Durant\nPHO\nPF\n51179021\n\n\nBradley Beal\nPHO\nSG\n50203930\n\n\nJaylen Brown\nBOS\nSF\n49205800\n\n\nKarl-Anthony Towns\nNYK\nC\n49205800\n\n\nPaul George\nPHI\nPF\n49205800\n\n\nKawhi Leonard\nLAC\nSF\n49205800\n\n\nDevin Booker\nPHO\nSG\n49205800"
-  },
-  {
     "objectID": "ps10/ps10-steven-wang.html",
     "href": "ps10/ps10-steven-wang.html",
     "title": "PS10: Geospatial Data",
@@ -75,5 +54,26 @@
     "title": "Closeread Template",
     "section": "",
     "text": "This is a sample closeread document.\n\n\n\n\nThe narrative appears on this side bar (left margin).\n\n\n\n\nThe image on the right depicts three species of iris flowers and their corresponding Sepal and Petal elements.\n\n\n\n\nWe refer to this image element as a sticky element. Why? Because as you scroll down, the image of the iris flowers gets stuck in the same place.\n\n\n\n\nWhen you trigger a sticky element, it will be displayed in the main section (to the right of this sidebar).\n\n\n\n\nHere’s another sticky element. It’s a simple scatter plot based on the iris data set, which is a built-in data frame in R.\n\n\n\n\nThis narrative section is displayed as a continuous piece of text instead of being broken down into separated paragraphs.\n\nThere are 3 species of iris flowers:\n\n- Setosa (red)\n- Versicolor (green)\n- Virginica (blue)\n\n\n\n\nHere’s a third sticky element.\n\n\n\n\nIt’s just a table with summary statistics.\n\n\n\n\nAnd finally a fourth sticky element.\n\n\n\n\nA colorful plot using facets to show the distribution of Sepal Length among the three iris species.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpecies\navg_sepal_length\nsd_sepal_length\n\n\n\n\nsetosa\n5.006\n0.3524897\n\n\nversicolor\n5.936\n0.5161711\n\n\nvirginica\n6.588\n0.6358796"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "A Little About Me",
+    "section": "",
+    "text": "Thanks for coming by! I’m a Bay Area native currently studying Applied Mathematics and Data Science at UC Berkeley.\nI enjoy working out (on a push/pull/legs split), hooping, computers (hardware/architecture), cars/motorsport (I’m a Vehicle Dynamics engineer for Berkeley Formula Racing), and EDM (I was a top 350 Spotify listener of William Black worldwide in 2025). I’m also pretty proud of my general knowledge base, which I’m constantly adding to."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Hi! I’m Steven Wang. I’m a UC Berkeley undergrad studying Applied Mathematics and Data Science. WIP–poke around!"
+  },
+  {
+    "objectID": "project3/project3.html",
+    "href": "project3/project3.html",
+    "title": "2024-25 NBA Salary Data",
+    "section": "",
+    "text": "Salary Distribution and Statistics\n\n\n\n\n10 Highest Salaries\n\n\n\n\nAmong star players, we see multiple contracts paying $49.2M in 2024-25 as a result of the salary cap and the max contract value being limited to 35% of the cap for players with 10+ years of experience.\n\n\n\n\nlook at curry man so inspirational\n\n\n\n\n10 Highest Team Payrolls\n\n\n\n\nBradley Beal is singlehandedly responsible for the Suns payroll. Book and KD have always earned their share; Beal pulled off one of the greatest contract heists of the decade.\n\n\n\n\nSalary vs Experience\n\n\n\n\nWe see a clear salary limit in the first four years of careers. First-round picks are limited to fixed-scale 4-year rookie contracts, while later picks are typically only offered contracts at or near the minimum.\n\n\n\n\nThese restrictions are substantially lifted after the rookie contract expires, or from the 4th year onward, in the case of rookie-scale extensions.\n\n\n\n\nSalary Market by Position\n\n\n\n\nTeams tend to value great point guards more than great players in other positions, like steph.\n\n\n\n\nLook at bron at the top of the sf market.\n\n\n\n\ngo dubs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMin\nQ1\nMedian\nMean\nQ3\nMax\n\n\n\n\n11997\n2087519\n5000000\n10560539\n13209705\n55761216\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nplayer\nteam\nposition\nsalary\n\n\n\n\nStephen Curry\nGSW\nPG\n55761216\n\n\nJoel Embiid\nPHI\nC\n51415938\n\n\nNikola JokiÄ\nDEN\nC\n51415938\n\n\nKevin Durant\nPHO\nPF\n51179021\n\n\nBradley Beal\nPHO\nSG\n50203930\n\n\nJaylen Brown\nBOS\nSF\n49205800\n\n\nKarl-Anthony Towns\nNYK\nC\n49205800\n\n\nPaul George\nPHI\nPF\n49205800\n\n\nKawhi Leonard\nLAC\nSF\n49205800\n\n\nDevin Booker\nPHO\nSG\n49205800\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nplayer\nteam\nposition\nsalary\n\n\n\n\nStephen Curry\nGSW\nPG\n55761216\n\n\nJoel Embiid\nPHI\nC\n51415938\n\n\nNikola JokiÄ\nDEN\nC\n51415938\n\n\nKevin Durant\nPHO\nPF\n51179021\n\n\nBradley Beal\nPHO\nSG\n50203930\n\n\nJaylen Brown\nBOS\nSF\n49205800\n\n\nKarl-Anthony Towns\nNYK\nC\n49205800\n\n\nPaul George\nPHI\nPF\n49205800\n\n\nKawhi Leonard\nLAC\nSF\n49205800\n\n\nDevin Booker\nPHO\nSG\n49205800\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nplayer\nteam\nposition\nsalary\n\n\n\n\nStephen Curry\nGSW\nPG\n55761216\n\n\nJoel Embiid\nPHI\nC\n51415938\n\n\nNikola JokiÄ\nDEN\nC\n51415938\n\n\nKevin Durant\nPHO\nPF\n51179021\n\n\nBradley Beal\nPHO\nSG\n50203930\n\n\nJaylen Brown\nBOS\nSF\n49205800\n\n\nKarl-Anthony Towns\nNYK\nC\n49205800\n\n\nPaul George\nPHI\nPF\n49205800\n\n\nKawhi Leonard\nLAC\nSF\n49205800\n\n\nDevin Booker\nPHO\nSG\n49205800"
   }
 ]
