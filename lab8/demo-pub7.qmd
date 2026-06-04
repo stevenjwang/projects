@@ -12,6 +12,7 @@ embed-resources: true
 ```{r}
 library(tidyverse)
 library(shiny)
+library(plotly)
 ```
 # Displacement, Cylinder Count, and Drive Wheels vs City MPG
 
@@ -19,15 +20,15 @@ library(shiny)
 
 ```{r}
 ctydispl = mpg |> ggplot(aes(x = displ, y=cty, alpha=0.3)) + geom_jitter() + labs(x="Engine Size", y="City MPG")
-ctydispl
+plotly::ggplotly(ctydispl)
 ```
 
 ```{r}
 ctycyl = mpg |> ggplot(aes(x = factor(cyl), y=cty)) + geom_violin() + labs(x="Cylinders", y="City MPG")
-ctycyl
+plotly::ggplotly(ctycyl)
 ```
 
 ```{r}
 ctydrv = mpg |> ggplot(aes(x = factor(drv), y=cty)) + geom_violin() + labs(x="Drive Wheels",y="City MPG")
-ctydrv
+plotly::ggplotly(ctydrv)
 ```
