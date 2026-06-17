@@ -1,5 +1,5 @@
 ---
-title: "My First Quarto Dashboard"
+title: "MPG Dashboard"
 format: 
   dashboard:
       theme: 

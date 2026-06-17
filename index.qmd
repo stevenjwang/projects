@@ -6,7 +6,7 @@ about:
     links:
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/stevenjwang
+      href: https://www.linkedin.com/steven53
       target: _blank # opens link in a new browser tab
     - icon: github
       text: Github
@@ -15,4 +15,4 @@ about:
 ---
 ---
 
-Hi! I'm Steven Wang. I'm a UC Berkeley undergrad studying Applied Mathematics and Data Science. WIP--poke around!
+Hi! I'm Steven Wang. I'm a UC Berkeley undergrad studying Applied Mathematics and Data Science. Work in progress--poke around!
