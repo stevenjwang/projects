@@ -10,12 +10,10 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: lab8/demo-pub7.qmd
-        text: Demo 7
-      - href: project3/project3.qmd
-        text: Project 3
-      - href: ps10/ps10-steven-wang.qmd
-        text: PS10
+      - href: nbasalaries/nbasalaries.qmd
+        text: NBA
+      - href: geospatial/geospatial.qmd
+        text: Geospatial
 
 format:
   html:
